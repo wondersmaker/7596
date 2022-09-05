@@ -1,0 +1,9 @@
+https://github.com/
+
+
+测试号:
+https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+
+
+和风天气:
+https://console.qweather.com/#/apps?lang=zh
